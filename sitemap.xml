@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://username.github.io/repository/tags/ai/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://username.github.io/repository/categories/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://username.github.io/repository/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://username.github.io/repository/posts/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://username.github.io/repository/categories/programming/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://username.github.io/repository/tags/python/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://username.github.io/repository/tags/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://username.github.io/repository/posts/coin-generator/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://username.github.io/repository/about/</loc>
+  </url>
+</urlset>

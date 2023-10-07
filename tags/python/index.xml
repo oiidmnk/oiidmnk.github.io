@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>python on oiidmnk</title>
+    <link>http://username.github.io/repository/tags/python/</link>
+    <description>Recent content in python on oiidmnk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>oiidmnk</copyright>
+    <lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://username.github.io/repository/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using an autoencoder to generate an image of a coin</title>
+      <link>http://username.github.io/repository/posts/coin-generator/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://username.github.io/repository/posts/coin-generator/</guid>
+      <description>Introduction For the BWKI (Bundeswettbewerb Künstliche Intelligenz - engl.: federal artificial intelligence competition) Hackathon we were given data by the Badisches Landesmuseum to use and create our own AI related idea and prototype over a weekend. Together with a friend we decided to take a dataset containing images of old coins and train an AI to generate new images.
+Cleaning the data The images we got could contain multiple coins at once in different positions so we decided to first cut out all circle shaped objects using a python script and then manually go through each image to verify that it&amp;rsquo;s indeed a coin.</description>
+    </item>
+    
+  </channel>
+</rss>
